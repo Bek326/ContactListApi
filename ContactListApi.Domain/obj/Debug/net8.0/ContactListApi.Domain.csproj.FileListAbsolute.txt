@@ -1,0 +1,11 @@
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Domain\bin\Debug\net8.0\ContactListApi.Domain.deps.json
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Domain\bin\Debug\net8.0\ContactListApi.Domain.dll
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Domain\bin\Debug\net8.0\ContactListApi.Domain.pdb
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Domain\obj\Debug\net8.0\ContactListApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Domain\obj\Debug\net8.0\ContactListApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Domain\obj\Debug\net8.0\ContactListApi.Domain.AssemblyInfo.cs
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Domain\obj\Debug\net8.0\ContactListApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Domain\obj\Debug\net8.0\ContactListApi.Domain.dll
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Domain\obj\Debug\net8.0\refint\ContactListApi.Domain.dll
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Domain\obj\Debug\net8.0\ContactListApi.Domain.pdb
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Domain\obj\Debug\net8.0\ref\ContactListApi.Domain.dll

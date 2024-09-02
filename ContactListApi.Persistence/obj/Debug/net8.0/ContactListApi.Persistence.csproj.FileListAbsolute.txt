@@ -1,0 +1,17 @@
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\obj\Debug\net8.0\ContactListApi.Persistence.csproj.AssemblyReference.cache
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\obj\Debug\net8.0\ContactListApi.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\obj\Debug\net8.0\ContactListApi.Persistence.AssemblyInfoInputs.cache
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\obj\Debug\net8.0\ContactListApi.Persistence.AssemblyInfo.cs
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\obj\Debug\net8.0\ContactListApi.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\bin\Debug\net8.0\ContactListApi.Persistence.deps.json
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\bin\Debug\net8.0\ContactListApi.Persistence.runtimeconfig.json
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\bin\Debug\net8.0\ContactListApi.Persistence.dll
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\bin\Debug\net8.0\ContactListApi.Persistence.pdb
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\bin\Debug\net8.0\ContactListApi.Domain.dll
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\bin\Debug\net8.0\ContactListApi.Domain.pdb
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\obj\Debug\net8.0\ContactL.5247894D.Up2Date
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\obj\Debug\net8.0\ContactListApi.Persistence.dll
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\obj\Debug\net8.0\refint\ContactListApi.Persistence.dll
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\obj\Debug\net8.0\ContactListApi.Persistence.pdb
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\obj\Debug\net8.0\ContactListApi.Persistence.genruntimeconfig.cache
+C:\Users\Бексултан\RiderProjects\ContactListApi\ContactListApi.Persistence\obj\Debug\net8.0\ref\ContactListApi.Persistence.dll
